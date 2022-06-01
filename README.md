@@ -1,7 +1,7 @@
 ## Description
 Use your Android stylus as mouse for Windows.  
 WRITTEN FOR EDUCATIONAL PURPOSES.  
-Unfortunately, works **poorly** (has serious microfreeze).  
+Unfortunately, works **poorly** (has serious microfreezes).  
 Stability and correctness are not guaranteed.
 
 ## Screenshots
